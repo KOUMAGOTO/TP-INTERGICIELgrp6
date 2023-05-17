@@ -1,0 +1,22 @@
+body{
+    background-color: mediumaquamarine;
+}
+
+.form{
+    background-color: blanchedalmond;
+    height: 500px;
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 8%;
+    padding-left: 10px;
+}
+input{
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-left: 2%;
+    height: 30px;
+    background-color: transparent;
+}
+label{
+    margin-left: 20px;
+}
